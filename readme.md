@@ -1,4 +1,4 @@
-# Calculatrice Complexe
+# Calculatrice - PyCalc
 
 Ce projet est une calculatrice complexe réalisée avec Python et Tkinter. Elle permet de réaliser des opérations mathématiques de base, ainsi que quelques fonctions trigonométriques et la racine carrée.
 
